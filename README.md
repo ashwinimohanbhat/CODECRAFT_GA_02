@@ -12,9 +12,9 @@ This project demonstrates how to generate images from text prompts using pre-tra
 ## Folder Structure
 
 Task2/
- ├─ Task2_Image_Generation.ipynb   # Colab notebook with code and explanations
- ├─ outputs/                       # Folder containing generated image(s)
- └─ README.md                       # Project description
+  1. Task2_Image_Generation.ipynb   # Colab notebook with code and explanations
+  2.  outputs/                       # Folder containing generated image(s)
+  3. README.md                       # Project description
 
 ## Usage Instructions
 1. Open the notebook in Google Colab.
